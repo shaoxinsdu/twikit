@@ -1,3 +1,6 @@
-*.json
-/*.py
+cookies.json
+config.py
 /node_modules
+__pycache__/
+*.pyc
+.env
